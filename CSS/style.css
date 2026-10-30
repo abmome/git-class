@@ -11,5 +11,13 @@
 }
 
 .box{
-    width: 1;
+    width: 100px;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+
+section{
+    width: 100px;
+    height: 100vh;
+    background-color: red;
 }
